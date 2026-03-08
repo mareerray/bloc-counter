@@ -6,9 +6,7 @@ Simple Flutter counter using BLoC pattern for state management. Demonstrates eve
 ## Features
 - Increment/decrement counter with + and - buttons
 
-- Big circle counter display with gray background
-
-- Green circular buttons
+- Big circle counter display 
 
 - BlocObserver logs state changes to console
 
